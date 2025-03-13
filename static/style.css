@@ -69,3 +69,6 @@ button:hover {
     background-color: #121212;
     color: #fafafa;
 }
+button:active {
+    background-color: #fafafa;
+}
